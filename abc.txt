@@ -13,3 +13,5 @@ commit brnsch from design
 req from design branch
 
 req from feature branch
+
+version - main 1.0
